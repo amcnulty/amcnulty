@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/amcnulty.svg)](https://github.com/amcnulty)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Spirelands.
@@ -8,3 +10,5 @@
 - 💬 Ask me about the video game I'm developing.
 - 📫 How to reach me: [Aaron Michael's Portfolio](https://aaronmichael.herokuapp.com/)
 - ⚡ Fun fact: I can tell you what day of the week you were born on!
+
+  
