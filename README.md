@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/amcnulty.svg)](https://github.com/amcnulty)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on Spirelands.
